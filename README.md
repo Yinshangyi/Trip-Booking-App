@@ -1,5 +1,6 @@
-# Apps From Scratch | Flutter Travel UI Starter Repo
+# Trip Booking App in Flutter
 
-Clone this repo and follow my YouTube video: [Flutter Travel UI Tutorial | Apps From Scratch](https://youtu.be/CSa6Ocyog4U)
-
-[Complete Travel UI](https://github.com/MarcusNg/flutter_travel_ui)
+<p float="left">
+  <img src="/assets/images/app-preview-1.png" width="250" />
+  <img src="/assets/images/app-preview-2.png" width="250" /> 
+</p>
